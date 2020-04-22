@@ -1,5 +1,6 @@
 
 from .board import Board
+from . import game_info as info
 
 class WwfApp():
    
@@ -7,4 +8,4 @@ class WwfApp():
         self.board = Board()
     
     def run(self):
-        self.board.addLetter(0,0,'x')
+        print(self.board.addWord)

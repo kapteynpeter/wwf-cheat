@@ -43,7 +43,7 @@ TW = 4
 CE = 5
 
 ''' Special tile locations '''
-special_chars = [
+char_map = [
     [EM, EM, EM, TW, EM, EM, TL, EM, TL, EM, EM, TW, EM, EM, EM],
     [EM, EM, DL, EM, EM, DW, EM, EM, EM, DW, EM, EM, DL, EM, EM],
     [EM, DL, EM, EM, DL, EM, EM, EM, EM, EM, DL, EM, EM, DL, EM],
